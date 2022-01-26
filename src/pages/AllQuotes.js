@@ -16,7 +16,7 @@ const DUMMY_QUOTES = [
     author: ' Janet Evanovich',
     text: 'Romance novels are birthday cake and life is often peanut butter and jelly. I think everyone should have lots of delicious romance novels lying around for those times when the peanut butter of life gets stuck to the roof of your mouth.',
   },
-   ]
+  ]
 
 const AllQuotes = () => {
  return <QuoteList quotes = {DUMMY_QUOTES} />
